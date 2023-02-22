@@ -1,0 +1,59 @@
+#ip2 {
+  border-radius: 25px;
+  border: 1px solid rgb(0, 0, 0);
+  padding: 20px;
+  height: 5px;
+  margin-left: -30px;    
+}
+
+#ip3 {
+  border-radius: 25px;
+  border: 2px solid rgba(0, 0, 0, 0);
+  padding: 5px;
+  margin-left: 42px;
+  margin-right: px;
+  margin-top: px;
+}
+
+#ip4 {
+  border-radius: 25px;
+  border: 2px solid rgba(0, 0, 0, 0);
+  padding: 5px;
+  margin-left: 49px;
+  margin-right: px;
+  margin-top: px;
+}
+
+body {
+  max-width: 500px;
+margin: auto;
+}
+
+#pic {
+  float: left;
+  margin-left: 55px;
+  padding-top: 200px;
+  padding-bottom: 30px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+#ip4 {
+  padding: 5px;
+  margin-left: -5px;
+  margin-right: 40px;
+  margin-top: 40px;
+  width:  50px;
+  width: 350px;
+}
+
+#ip6 {
+  padding: 5px;
+  margin-left: 65px;
+  margin-right: 40px;
+  margin-top: 40px;
+  width:  50px;
+  width: 350px;
+}
